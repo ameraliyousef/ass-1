@@ -84,4 +84,3 @@ else
 }
 
 Console.WriteLine("thank you");
-Console.WriteLine("programing by amer");
